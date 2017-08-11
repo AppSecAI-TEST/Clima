@@ -1,9 +1,7 @@
-package com.londonappbrewery.climapm;
+package com.example.climapm;
 
 import org.json.JSONException;
 import org.json.JSONObject;
-
-import java.util.jar.JarException;
 
 public class WeatherDataModel {
 
